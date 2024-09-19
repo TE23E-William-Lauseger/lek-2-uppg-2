@@ -1,0 +1,20 @@
+body{
+    background-image: url("./img/ek.jpg");
+}
+h1{
+    color: tomato;
+    background-color: lightblue;
+    text-align: center;
+}
+h2{
+    color: lightgreen;
+    background-color: blueviolet;
+    text-align: left;
+}
+li a{
+    color: black;
+    background-color: white;
+}
+p{
+    background-color: white;
+}
